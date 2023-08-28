@@ -23,4 +23,5 @@ SugarSense is a user-friendly and interactive application developed using the Su
 ## Authors
 
 - [@saurabhsinghaa](https://www.github.com/saurabhsinghaa)
+- [@shivamsrivastava121](https://www.github.com/shivamsrivastava121)
 
